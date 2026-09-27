@@ -32,24 +32,24 @@
     <circle cx="0" cy="0" r="4" fill="#EF4444" opacity="0.8" />
     <circle cx="12" cy="0" r="4" fill="#F59E0B" opacity="0.8" />
     <circle cx="24" cy="0" r="4" fill="#10B981" opacity="0.8" />
-    <text x="44" y="3.5" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', monospace" font-size="11" font-weight="500" letter-spacing="1.5">NODE // R20_CORE // PROTOCOL: MULTI_AGENT_CONSENSUS</text>
-    <text x="796" y="3.5" text-anchor="end" fill="#10B981" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', monospace" font-size="11" font-weight="600">● LIVE</text>
+    <text x="44" y="3.5" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', monospace" font-size="11" font-weight="500" letter-spacing="1.5">TERMINAL // ETHAN.DEV // ENV: PRODUCTION</text>
+    <text x="796" y="3.5" text-anchor="end" fill="#10B981" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', monospace" font-size="11" font-weight="600">● AVAILABLE</text>
   </g>
 
   <!-- Main Title -->
   <text x="32" y="98" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'SF Pro Display', sans-serif" font-size="34" font-weight="700" letter-spacing="-0.5">
-    R20 Quant <tspan fill="url(#text-grad)">.</tspan>
+    Ethan <tspan fill="url(#text-grad)">.</tspan>
   </text>
 
   <!-- Subtitle / Tagline -->
   <text x="32" y="130" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="400">
-    Multi-Agent LLM Systems Architect · Algorithmic Crypto Trading · Local-first AI
+    Full-Stack Engineer · System Builder · Exploring AI Agents, Mobile &amp; Distributed Tools
   </text>
 
   <!-- Command Line Execution Quote -->
   <g transform="translate(32, 162)">
     <rect x="0" y="-14" width="796" height="28" rx="6" fill="#030712" fill-opacity="0.6" stroke="#1E293B" stroke-width="1" />
     <text x="14" y="4" fill="#38BDF8" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, monospace" font-size="12" font-weight="600">$</text>
-    <text x="30" y="4" fill="#CBD5E1" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, monospace" font-size="12">the_llm.propose() → physical_risk_gates.veto() → <tspan fill="#34D399" font-weight="600">real_orders.execute()</tspan></text>
+    <text x="30" y="4" fill="#CBD5E1" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, monospace" font-size="12">system.craft(clean_code, useful_tools) → <tspan fill="#34D399" font-weight="600">ship_with_pride()</tspan></text>
   </g>
 </svg>
